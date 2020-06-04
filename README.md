@@ -1,7 +1,7 @@
 # COVID-19 Tracker
 ![COVID-19 Tracker Demo:](https://i.imgur.com/GGspnnw.png)
 
-### [Live Site](https://laughing-neumann-2317ae.netlify.app/)
+### [Live Site](https://global-covid-19-tracker.netlify.app/)
 
 ## Introduction
 
